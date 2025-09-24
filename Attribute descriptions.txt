@@ -1,0 +1,32 @@
+id	ID	Integer				no
+age	Feature	Continuous	Age			no
+gender	Feature	Continuous	Gender			no
+education	Feature	Continuous	Education Level			no
+country	Feature	Continuous	Nationality			no
+ethnicity	Feature	Continuous	Ethnicity			no
+nscore	Feature	Continuous				no
+escore	Feature	Continuous				no
+oscore	Feature	Continuous				no
+ascore	Feature	Continuous				no
+cscore	Feature	Continuous				no
+impuslive	Feature	Continuous				no
+ss	Feature	Continuous				no
+alcohol	Target	Categorical				no
+amphet	Target	Categorical				no
+amyl	Target	Categorical				no
+benzos	Target	Categorical				no
+caff	Target	Categorical				no
+cannabis	Target	Categorical				no
+choc	Target	Categorical				no
+coke	Target	Categorical				no
+crack	Target	Categorical				no
+ecstasy	Target	Categorical				no
+heroin	Target	Categorical				no
+ketamine	Target	Categorical				no
+legalh	Target	Categorical				no
+lsd	Target	Categorical				no
+meth	Target	Categorical				no
+mushrooms	Target	Categorical				no
+nicotine	Target	Categorical				no
+semer	Target	Categorical				no
+vsa	Target	Categorical				no
