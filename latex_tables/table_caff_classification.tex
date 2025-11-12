@@ -1,0 +1,17 @@
+
+\begin{table}[H]
+    \centering
+    \caption{Classification performance for predicting caff use based on the Big Five personality traits.
+    Reported values are mean outer–fold test error rates (\%) across $K = 3$ folds.
+    The logistic regression model was tuned via nested cross–validation to find the optimal $\lambda$ (regularization strength).}
+    \label{tab:classification:caff}
+    \begin{tabular}{l c}
+        \toprule
+        \textbf{Model} & \textbf{Mean Test Error (\%)} \\
+        \midrule
+        Baseline (majority class) & 6.26 \\
+        Logistic Regression & 33.37 \\
+        Artificial Neural Network & 6.26 \\
+        \bottomrule
+    \end{tabular}
+\end{table}
